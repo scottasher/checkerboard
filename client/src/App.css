@@ -1,0 +1,39 @@
+/* .container {
+  padding: 20px 175px;
+} */
+.row {
+  flex-wrap: nowrap;
+}
+.col {
+  background-color: white;
+}
+.black { 
+  background-color: black;
+}
+
+/* body , html{
+  transition: 1s ease-in-out;
+  width: 100%;
+  height : 100%;
+  margin : 0 0;
+  padding: 0 0;
+} */
+
+.square{
+  float: left;
+  width: 20px;
+  height: 20px;
+}
+
+.white{
+  background-color:#fff;
+}
+.black{
+  background-color :#000;
+}
+.board{
+  position: relative;
+  margin: 0 auto;
+}
+
+
